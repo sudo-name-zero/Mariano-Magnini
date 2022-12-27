@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a3f8760-db1c-4474-832e-34f42b728d30" name="cyber" url="https://marianomagniniart.com">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="192.168.188.65" port="22" sshConfigId="ab613fe7-9c3a-405e-9959-6ac0b2d50ff9" sshConfig="root@192.168.188.65:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
